@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "LEO Badass Song",
+      "url": "https://c.saavncdn.com/544/Badass-From-Leo-Tamil-2023-20230928162246-500x500.jpg",
+      "embedlink": "https://www.youtube.com/embed/IqwIOlhfCak"
+    },
+    {
+      "id": "2",
+      "caption": "Farcry 3 ",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Far_Cry_3_PAL_box_art.jpg",
+      "embedlink": "https://www.youtube.com/embed/Hz6qHS16tFY"
+    },
+    {
+      "id": "3",
+      "caption": "Vikram",
+      "url": "https://i1.sndcdn.com/artworks-Ti4yApLtlnFlW6uS-R5VzoA-t500x500.jpg",
+      "embedlink": "https://www.youtube.com/embed/OsLCY3vz3t8"
+    },
+    {
+      "id": "4",
+      "caption": "farcry 4",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/63/Far_Cry_4_box_art.jpg",
+      "embedlink": "https://www.youtube.com/embed/pXvzypp8mlo"
+    }
+  ],
+  "categories": [
+    {
+      "categoryname": "Songs",
+      "allvideos": [
+        {
+          "id": "4",
+          "caption": "farcry 4",
+          "url": "https://upload.wikimedia.org/wikipedia/en/6/63/Far_Cry_4_box_art.jpg",
+          "embedlink": "https://www.youtube.com/embed/pXvzypp8mlo"
+        },
+        {
+          "id": "3",
+          "caption": "Vikram",
+          "url": "https://i1.sndcdn.com/artworks-Ti4yApLtlnFlW6uS-R5VzoA-t500x500.jpg",
+          "embedlink": "https://www.youtube.com/embed/OsLCY3vz3t8"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "caption": "vikram",
+      "embedlink": "https://www.youtube.com/embed/w7shUeR3-Go",
+      "timestamp": "08/11/2023, 11:43:07",
+      "id": 2
+    },
+    {
+      "caption": "vikram",
+      "embedlink": "https://www.youtube.com/embed/w7shUeR3-Go",
+      "timestamp": "09/11/2023, 11:37:35",
+      "id": 3
+    },
+    {
+      "caption": "Farcry 3 ",
+      "embedlink": "https://www.youtube.com/embed/Hz6qHS16tFY",
+      "timestamp": "10/11/2023, 22:06:00",
+      "id": 4
+    },
+    {
+      "caption": "Farcry 3 ",
+      "embedlink": "https://www.youtube.com/embed/Hz6qHS16tFY",
+      "timestamp": "10/11/2023, 22:06:03",
+      "id": 5
+    },
+    {
+      "caption": "Vikram",
+      "embedlink": "https://www.youtube.com/embed/OsLCY3vz3t8",
+      "timestamp": "11/11/2023, 18:02:08",
+      "id": 6
+    }
+  ]
+}
